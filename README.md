@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeandroAntunez
 - 👀 I’m interested in keep learning tech.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on my first experience IT.
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m collaborating on Mobydigital as frontend developer.
 - 📫 How to reach me: contact me sending an email to leandro_antunez@outlook.com
 
 <!---
